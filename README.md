@@ -1,5 +1,5 @@
 👋 Hi, I’m Laura White. 
-- 💻 I am an experienced full-stack software engineer, currently working as the Tecnical Lead at Zero to Mastery.
+- 💻 I am an experienced full-stack software engineer, currently working as a Senior Software Developer at Zero to Mastery.
 - 👀 I’m interested in everything related full-stack JavaScript, React and React frameworks, and improving software deployments through CI/CD and GitHub actions.
 - 🌱 I’m currently learning more about enterprise architecture in the context of microservices and preparing for the AZ-204 (Azure Developer) certification.
 - 💞️ I’m passionate about mentoring junior software engineers and help answer students' questions in the Zero to Mastery Discord community with 400,000+ students and counting. 
