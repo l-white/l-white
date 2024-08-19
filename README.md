@@ -1,7 +1,7 @@
 👋 Hi, I’m Laura White. 
 
-- 💻 I am an experienced full-stack software engineer and cybersecurity specialist, currently working as a Senior Software Developer at Zero to Mastery.
-- 👀 I’m interested in everything related full-stack JavaScript, React and React frameworks, and improving software deployments through CI/CD and GitHub actions.
+- 💻 I am an experienced full-stack software engineer and cybersecurity specialist (incident detection and response), currently working as a Senior Software Developer at Zero to Mastery.
+- 👀 I’m interested in everything related full-stack JavaScript, React and React frameworks, and improving the security of my applications.
 - 🌱 I’m currently learning more about cloud security and preparing for the Security+ certification.
 - 💞️ I’m passionate about mentoring junior software engineers and help answer students' questions in the Zero to Mastery Discord community with 400,000+ students and counting. 
 - 💻 I created a C# Learning Path, particularly for students in the ZTM community. You can [fork the Github repo](https://github.com/l-white/c-sharp-path) and start learning if you're interested!
