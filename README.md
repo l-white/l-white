@@ -13,4 +13,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Projects
+
+### Cybersecurity
 - ⚠️ **[Vulnerability Mangement Program Implementation](https://github.com/l-white/vulnerability-management-program/tree/main)**
+
+### Data Analytics
+- Backend of Bikeshare App in Python
+- Fuel Economy Data in Jupyter Notebooks
