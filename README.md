@@ -19,4 +19,4 @@ You can click the Preview link to take a look at your changes.
 
 ### Data Analytics
 - Backend of Bikeshare App in Python
-- Fuel Economy Data in Jupyter Notebooks
+- **[Fuel Economy Data in Jupyter Notebooks](https://github.com/l-white/fuel-economy-data-analysis)**
