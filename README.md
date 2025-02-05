@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Cybersecurity
 - ⚠️ **[Vulnerability Mangement Program Implementation](https://github.com/l-white/vulnerability-management-program/tree/main)**
+- ⚠️ **[Implementing Security Controls Programmatically with PowerShell](https://github.com/l-white/vulnerability-remediation-with-powershell)**
 
 ### Data Analytics
 - **[Fuel Economy Data in Jupyter Notebooks](https://github.com/l-white/fuel-economy-data-analysis)**
