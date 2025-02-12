@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 - **[Fuel Economy Data in Jupyter Notebooks](https://github.com/l-white/fuel-economy-data-analysis)**
 
 ### Frontend Development
-- **[Zero to Mastery Academy Website - Built with React](https://zerotomastery.io)
+- **[Zero to Mastery Academy Website - Built with React](https://zerotomastery.io)**
 
 ### Backend Programming
 - **[Backend of Bikeshare App in Python](https://github.com/l-white/python-bikeshare-project)**
