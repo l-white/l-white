@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 ### Backend Programming
 - **[Backend of Bikeshare App in Python](https://github.com/l-white/python-bikeshare-project)**
 - **[Movies API in C#](https://github.com/l-white/movies-api)**
-- **[Lead Python Developer, Code Reviewer, and Documentation Author for ASCII-Art Project for Zero to Mastery Students](https://github.com/zero-to-mastery/ascii-art)**
+- **[Lead Python Developer and Code Reviewer for ASCII-Art Project for Zero to Mastery Students](https://github.com/zero-to-mastery/ascii-art)**
 
 ### Data Analytics
 - **[Fuel Economy Data in Jupyter Notebooks](https://github.com/l-white/fuel-economy-data-analysis)**
