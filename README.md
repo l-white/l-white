@@ -2,7 +2,7 @@
 
 - 💻 I'm an experienced full-stack software engineer, currently working as a Senior Software Developer at Zero to Mastery. We are a technical education company, specializing in video-based instruction and dedicated to helping students land their dream jobs.
 - 👀 I’m interested in everything related full-stack JavaScript, React and React frameworks, scripting in Python, Linux + Powershell and improving the security of my applications.
-- 🌱 I’m currently learning more about cloud security and hold the CompTIA Security+ certification.
+- 🌱 I hold the CompTIA Security+ certification.
 - 💞️ I’m passionate about mentoring aspiring cyber software developers + security professionals and help answer students' questions in the Zero to Mastery Discord community with 500,000+ students and counting.
 - 💻 I created a C# Learning Path, particularly for students in the ZTM community. You can [fork the Github repo](https://github.com/l-white/c-sharp-path) and start learning if you're interested!
 - 📫 [Visit me on LinkedIn](https://www.linkedin.com/in/laurawhite-softwareengineer/), [StackOverflow](https://stackoverflow.com/users/9430133/laura-white), and [Quora](https://www.quora.com/profile/Laura-White-28) where I was a top writer in 2018.
