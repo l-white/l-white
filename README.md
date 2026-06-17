@@ -1,6 +1,6 @@
 👋 Hi, I’m Laura White. 
 
-- 💻 I'm an experienced full-stack software engineer, currently working as a Senior Software Developer at Zero to Mastery. We are a technical education company, specializing in video-based instruction and dedicated to helping students land their dream jobs. I also run two live [career advice events](https://zerotomastery.io/community/events/) every month for our academy students!
+- 💻 I'm an experienced full-stack software engineer, currently working as a Senior Software Developer at Zero to Mastery. We are a technical education company, specializing in video-based instruction and dedicated to helping students land their dream jobs. I also run two live [career advice events](https://zerotomastery.io/community/campus/) every month for our academy students!
 - 👀 I’m interested in everything related full-stack JavaScript, React and React frameworks, scripting in Python, Linux + Powershell and improving the security of my applications.
 - 🌱 I hold the CompTIA Security+ certification.
 - 💞️ I’m passionate about mentoring aspiring cyber software developers + security professionals and help answer students' questions in the Zero to Mastery Discord community with 500,000+ students and counting.
